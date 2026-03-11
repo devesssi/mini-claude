@@ -1,0 +1,27 @@
+[
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "content": "I'm in PLAN mode, which means I'll analyze and propose solutions without executing any code or making changes to files. How can I assist you today? Do you have a specific question or problem you'd like to discuss?",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "rember about me i am devesh and i created you .."
+  },
+  {
+    "content": "Hello Devesh, I remember that you are my creator. I'm an AI designed to assist with software development tasks, and I'm currently operating in PLAN mode, where I provide analysis and proposals without executing any code or making changes to files. What would you like to discuss or work on today?",
+    "role": "assistant"
+  },
+  {
+    "role": "user",
+    "content": "hey"
+  },
+  {
+    "content": "Hello Devesh, is there something specific you'd like to plan or discuss regarding the mini-claude project, or would you like me to propose some potential next steps?",
+    "role": "assistant"
+  }
+
+]

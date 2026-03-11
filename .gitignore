@@ -1,0 +1,8 @@
+echo "node_modules/
+.venv/
+venv/
+__pycache__/
+.opencode/
+.DS_Store
+*.log
+.env" > .gitignore

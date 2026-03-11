@@ -1,0 +1,16 @@
+[project]
+name = "mini-claudecode"
+version = "0.1.0"
+description = "A mini AI coding agent inspired by ClaudeCode"
+dependencies = [
+    "groq",
+    "python-dotenv",
+    "click" # We will use this for the CLI
+]
+
+[project.scripts]
+mini-claude = "mini_claude.cli:main"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

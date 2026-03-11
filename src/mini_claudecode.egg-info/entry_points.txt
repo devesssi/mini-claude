@@ -1,0 +1,2 @@
+[console_scripts]
+mini-claude = mini_claude.cli:main
