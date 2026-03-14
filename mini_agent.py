@@ -4,7 +4,7 @@ from groq import Groq
 
 # 1. Initialize Client
 # Best practice: use os.environ.get("GROQ_API_KEY") 
-client = Groq(api_key="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")
+client = Groq(api_key=api_key)
 
 # 2. Define your Python functions (Tools)
 def list_files():
