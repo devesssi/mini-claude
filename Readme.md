@@ -1,5 +1,3 @@
-<existing_content>
-
 **Title:** Mini Claude - A Modular CLI Chatbot Inspired by OpenCode and Claude
 
 **Introduction:**
